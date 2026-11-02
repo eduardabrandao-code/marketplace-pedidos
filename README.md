@@ -1,4 +1,4 @@
-# Marketplace — Pedidos de Serviços
+# Marketplace - Pedidos de Serviços
 
 Aplicação desenvolvida em React e TypeScript que simula a área de um profissional num marketplace de serviços de reparação, permitindo consultar, filtrar e aceitar pedidos disponíveis.
 
@@ -32,7 +32,7 @@ Aplicação desenvolvida em React e TypeScript que simula a área de um profissi
 2. Entrar na pasta do projeto:
 
    ```bash
-   cd cd marketplace-pedidos
+   cd marketplace-pedidos
    ```
 
 3. Instalar as dependências:
